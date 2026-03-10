@@ -6,10 +6,9 @@ The goal is to better understand how algorithms work internally, analyze their c
 
 ## Contents
 
-- Algorithm implementations (e.g. binary search)
+- Algorithm implementations
 - Logic and problem-solving exercises
 
 ## Notes
 
-This is a learning-focused repository, not a production-ready library.  
-Some exercises are inspired by study materials such as *Grokking Algorithms* by Aditya Bhargava.
+This is a learning-focused repository, not a production-ready library.
