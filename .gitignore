@@ -29,3 +29,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Visual Studio ###
+.vs/
+bin/
+obj/
+*.user
